@@ -1,0 +1,15 @@
+.navbar {
+    background: rgba(0, 44, 80, 0.8) ;
+}
+
+.navbar a {
+    color: #fff;
+}
+
+#signal {
+    color: #ce0b0b;
+}
+
+#reproductor {
+    display: none;
+}
